@@ -1,8 +1,4 @@
-01267978152,Business_Banking,1,0
-01146702320,Business_Banking,1,0
-01523920681,Business_Banking,1,0
-01095567898,Business_Banking,1,0
-01066348144,Digital_Banking,0,1
+01066348144,Business_Banking,1,0
 01553300933,Individual_Banking,0,2
 01122426613,Digital_Banking,0,3
 01274046621,Loans,0,4
